@@ -7,7 +7,7 @@
 - Thomas Fuller
 
 ## Project Management Board
-Trello Board: https://trello.com/invite/b/68d0b324d1f625da65edae84/ATTI437b8f2e4ddf699b60fe8f50e663d0bb913F6ADD/team-project
+https://trello.com/b/zN1wNOg1/team-project
 
 
 ---
